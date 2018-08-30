@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55218" started-at="2018-08-30T10:33:56Z" finished-at="2018-08-30T10:34:51Z">
+    <groups>
+    </groups>
+    <test name="Android_Browser_Chrome" duration-ms="55218" started-at="2018-08-30T10:33:56Z" finished-at="2018-08-30T10:34:51Z">
+      <class name="com.hp.qmetryHackathon.AppTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hp.qmetryHackathon.AppTest@137cf78]" name="setup" is-config="true" duration-ms="39845" started-at="2018-08-30T10:33:56Z" finished-at="2018-08-30T10:34:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="launchWebsite()[pri:0, instance:com.hp.qmetryHackathon.AppTest@137cf78]" name="launchWebsite" duration-ms="3336" started-at="2018-08-30T10:34:36Z" finished-at="2018-08-30T10:34:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchWebsite -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hp.qmetryHackathon.AppTest@137cf78]" name="teardown" is-config="true" duration-ms="12014" started-at="2018-08-30T10:34:39Z" finished-at="2018-08-30T10:34:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.hp.qmetryHackathon.AppTest -->
+    </test> <!-- Android_Browser_Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>
